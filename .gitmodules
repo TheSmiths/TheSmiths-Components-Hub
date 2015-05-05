@@ -1,3 +1,6 @@
 [submodule "ts.httprequest"]
 	path = ts.httprequest
 	url = git@github.com:TheSmiths-Widgets/ts.httprequest.git
+[submodule "ts.parsebone"]
+	path = ts.parsebone
+	url = git@github.com:TheSmiths-Widgets/ts.parsebone.git
