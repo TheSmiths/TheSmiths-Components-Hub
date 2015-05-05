@@ -9,3 +9,6 @@ To maintain a wiki/guideline for our components:
 2. We create a new repository for each widget
 3. We link this widget as a submodule in [TheSmiths-Widgets-Hub repository](https://github.com/TheSmiths/TheSmiths-Widgets-Hub)
 4. We write documentation for the widget in [TheSmiths-Widget-Hub wiki](https://github.com/TheSmiths/TheSmiths-Widgets-Hub/wiki/)
+
+## Components
+* **ts.httprequest**: (documentation)[http://thesmiths-widgets.github.io/ts.httprequest/#!/api/Request]

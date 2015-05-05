@@ -1,0 +1,3 @@
+[submodule "ts.httprequest"]
+	path = ts.httprequest
+	url = git@github.com:TheSmiths-Widgets/ts.httprequest.git
