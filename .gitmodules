@@ -4,3 +4,6 @@
 [submodule "ts.parsebone"]
 	path = ts.parsebone
 	url = git@github.com:TheSmiths-Widgets/ts.parsebone.git
+[submodule "ts.windowhandler"]
+	path = ts.windowhandler
+	url = git@github.com:TheSmiths-Widgets/ts.windowhandler.git

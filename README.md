@@ -13,3 +13,4 @@ To maintain a wiki/guideline for our components:
 ## Components
 * **ts.httprequest**: [documentation](http://thesmiths-widgets.github.io/ts.httprequest/#!/api/Request)
 * **ts.parsebone**: [documentation](http://thesmiths-widgets.github.io/ts.parsebone/#!/api/ParseBone)
+* **ts.windowhandler**: [documentation](http://thesmiths-widgets.github.io/ts.windowhandler/#!/api/WindowHandler)
